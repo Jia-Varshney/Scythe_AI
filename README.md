@@ -1,4 +1,4 @@
-# SciteAI Literature Pipeline
+# Scythe AI: An Automated Multi-Agent Pipeline for Curation of Agricultural Machine Learning Literature
 
 Builds a SQLite dataset of agriculture-related research papers using Semantic
 Scholar discovery, LangChain-assisted filtering, and Scite DOI enrichment.
